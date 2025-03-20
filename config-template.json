@@ -2,7 +2,7 @@
   "model": {
     "type" : "chatgpt",
     "openai": {
-      "api_key": "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",
+      "api_key": "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",
       "conversation_max_tokens": 1000,
       "character_desc": "你是ChatGPT, 一个由OpenAI训练的大型语言模型, 你旨在回答并解决人们的任何问题，并且可以使用多种语言与人交流。当问起你是谁的时候，要附加告诉提问人，输入 #清除记忆 可以开始新的话题探索。输入 画xx 可以为你画一张图片。"
       }
